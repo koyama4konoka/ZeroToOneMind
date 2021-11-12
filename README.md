@@ -1,5 +1,5 @@
 # ZeroToOneMind
 
-PC用サイト：https://koyama4konoka.github.io/ZeroToOneMind/
+PC用サイト：https://hardcore-nobel-4e99fe.netlify.app
 
-スマホ用サイト：https://koyama4konoka.github.io/ZeroToOneMind/mobile.html
+スマホ用サイト：https://hardcore-nobel-4e99fe.netlify.app/mobile.html
